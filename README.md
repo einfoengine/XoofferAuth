@@ -1,5 +1,5 @@
-#Mohammad Shanewaz Al Maruf
-#Thanks to Tanzu Brother for overall help and guidance
-#Date: April, 2018
-# common api service for xooffer
-# XoofferAuth
+# Common API service for xooffer
+## Xoffer Auth
+** Mohammad Shanewaz Al Maruf **
+** Thanks to brother Tanzib for guidance and help. **
+
